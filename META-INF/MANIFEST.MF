@@ -1,0 +1,245 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: data/system_app/YouTube/lib/arm/libm2ts_player.so
+SHA1-Digest: 1rVy+PTg0UwN9uh2sTDlvArfsOE=
+
+Name: boot.img
+SHA1-Digest: 0cnYByml3cFOFZjMmXIkIcuJy+E=
+
+Name: data/system_app/PartnerBookmarksProvider/PartnerBookmarksProvide
+ r.apk
+SHA1-Digest: EqDZ/QnFCXJXm/FH9+iwSx3CDRs=
+
+Name: data/system_privapp/Velvet/Velvet.apk
+SHA1-Digest: loi3fZKujD3UQOJZA2/p7R8XZfw=
+
+Name: data/system_app/YouTube/lib/arm/libcronet.so
+SHA1-Digest: O54N4W0tM9JrL3a5JxzTbsLjPa4=
+
+Name: data/system_app/Drive/lib/arm/libwebp_android.so
+SHA1-Digest: QalfbtlWfQA1Nr0dOXvw10BIgnk=
+
+Name: data/system_privapp/Velvet/lib/arm/libcronet.so
+SHA1-Digest: O54N4W0tM9JrL3a5JxzTbsLjPa4=
+
+Name: reserve4.img
+SHA1-Digest: OSnrmbBBLLDnwBNq243gCy7S6/E=
+
+Name: data/system_app/Videos/Videos.apk
+SHA1-Digest: 7hz++xUH9mtxhf5dPyNTbfKALmI=
+
+Name: data/system_app/PlusOne/lib/arm/libcronet.so
+SHA1-Digest: dPQ/QyDKKnxq3avuFY+GjUVDxo0=
+
+Name: data/system_app/GoogleCalendarSyncAdapter/GoogleCalendarSyncAdap
+ ter.apk
+SHA1-Digest: ATITgSjCqCgtSrQZIw8uNyALvk4=
+
+Name: data/system_app/Drive/lib/arm/librectifier.so
+SHA1-Digest: fOryZ8LZniXcStjEt34mVOdrzUA=
+
+Name: rpm.mbn
+SHA1-Digest: KjgxmCJEEBFiIVDnGuV9Vdd5EKA=
+
+Name: data/system_privapp/Velvet/lib/arm/libgoogle_speech_jni.so
+SHA1-Digest: 2dBdvMFeV7j9UEg8kDuJoMd8PCk=
+
+Name: data/system_privapp/Phonesky/Phonesky.apk
+SHA1-Digest: r2m7busFytY/w7b9N3W2TOt+ucc=
+
+Name: emmc_appsboot.mbn
+SHA1-Digest: k+D1yiPi3Sn9tG+kZueOHi2vzpU=
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest: VqovK8ZmoOjI+EZvh0mLhq+AHQ4=
+
+Name: data/system_app/GoogleTTS/lib/arm/libpatts_engine_jni_api_ub.210
+ 304060.so
+SHA1-Digest: 4WUbP/EKIl5WyAS3+lPb5VeeaCA=
+
+Name: data/system_app/Hangouts/lib/arm/libvideochat_jni.so
+SHA1-Digest: 1IyWrGBAI/TQUXii9QdVQnnrESw=
+
+Name: data/system_app/ChromeWithBrowser/lib/arm/libchromium_android_li
+ nker.so
+SHA1-Digest: 4L2TISh+gcNMPjnfhE3M1vZeUQg=
+
+Name: data/system_app/PlusOne/lib/arm/libcrashreporterer.so
+SHA1-Digest: bqLSeoVcFLxQIn2lBWjyG4+tssQ=
+
+Name: DRIVER.ISO
+SHA1-Digest: zrsnYu9WK20Usvq1Pmv+HckIHIo=
+
+Name: system.new.dat
+SHA1-Digest: oj1uryacHyyD1rXWLG783KRFKSU=
+
+Name: data/system_app/Drive/Drive.apk
+SHA1-Digest: fQb9aJnJvWYfWQDQDy8O0i93LNc=
+
+Name: data/system_app/Hangouts/lib/arm/libcronet.so
+SHA1-Digest: O54N4W0tM9JrL3a5JxzTbsLjPa4=
+
+Name: data/system_app/Maps/lib/arm/libcrashreporterer.so
+SHA1-Digest: bTMoWOLJABnxXjedvlXlpIM/zN0=
+
+Name: data/system_privapp/GooglePartnerSetup/GooglePartnerSetup.apk
+SHA1-Digest: ccehcpe/gdyxJoKOBGWHPUarlfY=
+
+Name: data/system_privapp/GoogleBackupTransport/GoogleBackupTransport.
+ apk
+SHA1-Digest: LpfwCDHS/7n+wmJlo5pZRU3Z45Y=
+
+Name: data/system_app/Hangouts/lib/arm/libframesequence.so
+SHA1-Digest: 72Tl2//0ip6C1lugxJ1jft/HymE=
+
+Name: NON-HLOS.bin
+SHA1-Digest: fQXAnP6p00d9HBAIpXU3E81dzTg=
+
+Name: data/system_app/PlayGames/PlayGames.apk
+SHA1-Digest: bOuK9cZlWHx28mlL+U5jEVWRHEg=
+
+Name: data/system_app/Hangouts/lib/arm/libcrashreporterer.so
+SHA1-Digest: gFrKJjpCEPYWnQuPby4N2tOZXqM=
+
+Name: tz.mbn
+SHA1-Digest: 18hu8SzjjeRnIj4FxQTqvF/VD3Y=
+
+Name: system.transfer.list
+SHA1-Digest: D9QQiHKhdkVIZ60Ad5VB8ySfmiA=
+
+Name: data/system_app/PlusOne/lib/arm/libphotoeditor_native.so
+SHA1-Digest: JEh78abA0/FrxBVRQ8xwMWGBJow=
+
+Name: data/system_app/GoogleTTS/lib/arm/libspeexwrapper_ub.210304060.s
+ o
+SHA1-Digest: OC8eGstvCIOcOQwKUbcvRAL4Yrs=
+
+Name: system.patch.dat
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+
+Name: logo.bin
+SHA1-Digest: jKBJ22dhA3uQgSxqP2oNg0Z+5cg=
+
+Name: data/system_privapp/Velvet/lib/arm/libgoogle_speech_micro_jni.so
+SHA1-Digest: e1wNiSWWr+Gngp+Y/jBd7axN/HE=
+
+Name: static_nvbk.bin
+SHA1-Digest: L2FeXNC705Kgd/EzgkoeCqPhtk8=
+
+Name: data/system_app/Hangouts/Hangouts.apk
+SHA1-Digest: z2cpg/387iPeSirB6zon5ciEnVI=
+
+Name: data/system_privapp/GoogleOneTimeInitializer/GoogleOneTimeInitia
+ lizer.apk
+SHA1-Digest: SVcMJx9vxZJgM6xtXYvjagjVQX8=
+
+Name: data/system_app/Drive/lib/arm/libbitmap_parcel.so
+SHA1-Digest: f5rddRrFck6Xx4JmTjXdvmg+DTk=
+
+Name: data/system_app/CloudPrint/CloudPrint.apk
+SHA1-Digest: LnCXJTKPLxUt6U9Tvkiy27315Fc=
+
+Name: data/reserve/TouchPal_5.7.3.4.201508150033_Global.apk
+SHA1-Digest: crx/NE8RbSynPsd64SeuC/zM/EU=
+
+Name: data/system_app/Newsstand/Newsstand.apk
+SHA1-Digest: kbYz3cUT1YEyqJrtWluOfATYUro=
+
+Name: data/system_app/Keep/Keep.apk
+SHA1-Digest: SdsJM9omRpoAFycF0Fq7I8PZDdI=
+
+Name: sbl1.mbn
+SHA1-Digest: 2EUyIaqdnHcvSpmwRGqXFvNrYjY=
+
+Name: data/system_app/PlusOne/lib/arm/libframesequence.so
+SHA1-Digest: +OpmJEo8AVX3Jw6mmUON7yUnyWc=
+
+Name: data/system_app/ChromeWithBrowser/lib/arm/libchrome.so
+SHA1-Digest: AWjccqdgcHZCjqUSV7hOWpfi2E8=
+
+Name: data/system_app/Maps/lib/arm/libgmm-jni.so
+SHA1-Digest: iVH6ObssRMjUZt74U3ot1LTP9fU=
+
+Name: data/system_app/Drive/lib/arm/libdocscanner_image.so
+SHA1-Digest: SswCn/1Qwbymcg1wiNm4EjpFjpE=
+
+Name: data/reserve/OppoWPS.apk
+SHA1-Digest: ztpcp2s3L4rercPnhCBYAPvcldg=
+
+Name: data/system_app/ChromeWithBrowser/ChromeWithBrowser.apk
+SHA1-Digest: 6r2m5lRqElj9xz7zEnjOnC/+gq4=
+
+Name: data/system_app/PlusOne/lib/arm/libfilterframework_jni.so
+SHA1-Digest: nzPST8UvjM8Ah/FCuiXD8MlCqd8=
+
+Name: data/system_privapp/GoogleFeedback/GoogleFeedback.apk
+SHA1-Digest: WevW0PjLb00C3Ox7P9wYL97AJUg=
+
+Name: data/system_app/Books/Books.apk
+SHA1-Digest: kL3ei1jPo4Z9IRsgDfwUnTAtkGY=
+
+Name: data/system_app/PlusOne/PlusOne.apk
+SHA1-Digest: 6Rtgxi53S7aHMIuyHag1TG0Pg0Y=
+
+Name: data/system_app/GoogleContactsSyncAdapter/GoogleContactsSyncAdap
+ ter.apk
+SHA1-Digest: b1I0z2nm/bNo5p/eURb5PSMfz98=
+
+Name: data/system_app/Drive/lib/arm/libfoxit.so
+SHA1-Digest: jMz5PB154kFyqSBSuG0B9OfhDSY=
+
+Name: data/system_privapp/TagGoogle/TagGoogle.apk
+SHA1-Digest: ES78qtgpqziq8R6ccfx/VlYCfjI=
+
+Name: data/system_app/Music2/Music2.apk
+SHA1-Digest: yXmS4HvubRW6pK7t68FTv61K9DU=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest: 6Fv3C7IjLUSVaXtxkVaYOcQPSrU=
+
+Name: data/system_app/talkback/talkback.apk
+SHA1-Digest: S0QDwEE5+pgJ5UOdW4uIBr9ET6c=
+
+Name: data/system_app/YouTube/lib/arm/libfilterframework_jni.so
+SHA1-Digest: ArkQ/Mk7NOlYrXHEhtnUhuWvcFY=
+
+Name: data/system_app/Drive/lib/arm/libdocsimageutils.so
+SHA1-Digest: kurUd5hMu4mHKEpxBaVHCm9fqrw=
+
+Name: META-INF/com/android/otacert
+SHA1-Digest: d1V8g8Fc0oGZj+Hj7N7l/SngEyk=
+
+Name: META-INF/com/android/metadata
+SHA1-Digest: eRj0BMPP04zSXNRTEEL+12bmFtQ=
+
+Name: data/system_app/PlayGames/lib/arm/libgames_rtmp_jni.so
+SHA1-Digest: TUuc5yAJ7X2Zdur4qbB5oPDx6hY=
+
+Name: data/system_app/YouTube/YouTube.apk
+SHA1-Digest: pAXELXdXjEQfynY99+pACYZfkU8=
+
+Name: data/system_app/PlusOne/lib/arm/libwebp_android.so
+SHA1-Digest: NYGfnKGwhYGC3t8VMitheirgC5E=
+
+Name: data/system_app/GoogleTTS/GoogleTTS.apk
+SHA1-Digest: fDAAO84nbSi6D0dEnNvWhKgSi9w=
+
+Name: data/system_app/Maps/Maps.apk
+SHA1-Digest: lV0OoLPhMEsKnxW4wtLVm7bmqsY=
+
+Name: data/system_app/ConfigUpdater/ConfigUpdater.apk
+SHA1-Digest: DzCkbXv8M5j7wcuubT/puoK+ZiQ=
+
+Name: data/system_app/Gmail2/Gmail2.apk
+SHA1-Digest: pyOuyzMCD9g1p2KSVgSByh7epYk=
+
+Name: data/system_app/PlusOne/lib/arm/libmoviemaker-jni.so
+SHA1-Digest: o2wx/xdg0W27xtrA0C6AvmgT+Fo=
+
+Name: data/system_app/Videos/lib/arm/libWVphoneAPI.so
+SHA1-Digest: S/mmrpHYOvcefoSn08MEgaUGzWI=
+
+Name: data/system_app/Drive/lib/arm/libfileutils.so
+SHA1-Digest: 1i6d9wPIEOYkLBOWigVQjk456VI=
+
